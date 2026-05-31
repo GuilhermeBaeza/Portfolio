@@ -7,7 +7,7 @@
 
 Este é o repositório do meu portfólio pessoal, desenvolvido do zero para apresentar minha trajetória, experiências, projetos e habilidades como Desenvolvedor Fullstack em formação. O projeto foi construído utilizando **HTML, CSS e JavaScript puro**, com foco total em performance, acessibilidade e um design moderno.
 
-🔗 **[Acesse o Portfólio Online Aqui](https://seu-portfolio-link.vercel.app/)** *(Lembre-se de substituir este link pelo seu link real da Vercel)*
+🔗 **[Acesse o Portfólio Online Aqui](https://seu-portfolio-link.vercel.app/)**
 
 ---
 
@@ -39,4 +39,4 @@ Como é um projeto em tecnologias web fundamentais, rodá-lo é extremamente sim
 
 1. **Clone este repositório:**
    ```bash
-   git clone [https://github.com/GuilhermeBaeza/nome-do-seu-repositorio.git](https://github.com/GuilhermeBaeza/nome-do-seu-repositorio.git)
+   git clone [https://github.com/GuilhermeBaeza/nome-do-seu-repositorio.git](https://github.com/GuilhermeBaeza/Portf-lio.git)
