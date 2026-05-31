@@ -39,4 +39,4 @@ Como é um projeto em tecnologias web fundamentais, rodá-lo é extremamente sim
 
 1. **Clone este repositório:**
    ```bash
-   git clone [[https://github.com/GuilhermeBaeza/Portf-lio.git]
+   git clone https://github.com/GuilhermeBaeza/Portf-lio.git
