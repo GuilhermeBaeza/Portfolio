@@ -7,7 +7,7 @@
 
 Este é o repositório do meu portfólio pessoal, desenvolvido do zero para apresentar minha trajetória, experiências, projetos e habilidades como Desenvolvedor Fullstack em formação. O projeto foi construído utilizando **HTML, CSS e JavaScript puro**, com foco total em performance, acessibilidade e um design moderno.
 
-🔗 **[Acesse o Portfólio Online Aqui](https://seu-portfolio-link.vercel.app/)**
+🔗 **[Acesse o Portfólio Online Aqui]([https://seu-portfolio-link.vercel.app/](https://portfolio-sepia-alpha-29.vercel.app/))**
 
 ---
 
